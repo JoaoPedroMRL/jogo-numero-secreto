@@ -1,5 +1,5 @@
 let listaDeNumeros = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 console.log(`O número é ${numeroSecreto}`);
 let tentativas = 1;
